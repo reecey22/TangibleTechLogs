@@ -31,7 +31,7 @@ This journal was initiated as a requirement for my physical computing class, and
 * build a portfolio
 
 ## Elevator Pitch
-[Elevator Pitch](TangibleTechLogs/ElevatorPitch)
+[Elevator Pitch](ElevatorPitch)
 
 ## User Interview Information
 [Link to User Interviews](TangibleTechLogs/UserInterviews
@@ -41,7 +41,7 @@ This journal was initiated as a requirement for my physical computing class, and
 
 ## Project Sketches
 
-[Click to view Sketches](TangibleTechLogs/SketchesAndStoryboard)
+[Click to view Sketches](SketchesAndStoryboard)
 
 ## Cool Tech Discoveries
 👷🏾‍♀️Under Construction 🚧 
