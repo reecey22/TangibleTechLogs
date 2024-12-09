@@ -1,0 +1,78 @@
+#include <CapacitiveSensor.h>
+
+// LED Pin Definitions
+int led1 = 7; // LED1 connected to pin 7
+int led2 = 8; // LED2 connected to pin 8
+int led3 = 9; // LED3 connected to pin 9
+
+// Timing and State Variables
+unsigned long time = 0;
+int state1 = HIGH, state2 = HIGH, state3 = HIGH;
+boolean yes1, yes2, yes3;
+boolean previous1 = false, previous2 = false, previous3 = false;
+
+int debounce = 200;
+
+// Capacitive Sensor Definitions
+CapacitiveSensor cs_2_3 = CapacitiveSensor(2, 3);     // Sensor 1: 10M resistor between pins 2 & 3
+CapacitiveSensor cs_4_5 = CapacitiveSensor(4, 5);     // Sensor 2: 10M resistor between pins 4 & 5
+CapacitiveSensor cs_10_11 = CapacitiveSensor(10, 11); // Sensor 3: 10M resistor between pins 10 & 11
+
+void setup() {
+    // Calibrate the sensors
+    cs_2_3.set_CS_AutocaL_Millis(0xFFFFFFFF);
+    cs_4_5.set_CS_AutocaL_Millis(0xFFFFFFFF);
+    cs_10_11.set_CS_AutocaL_Millis(0xFFFFFFFF);
+
+    // Set LED pins as outputs
+    pinMode(led1, OUTPUT);
+    pinMode(led2, OUTPUT);
+    pinMode(led3, OUTPUT);
+
+    // Initialize serial monitor
+    Serial.begin(9600);
+}
+
+void loop() {
+    // Read capacitive sensor values
+    long total1 = cs_2_3.capacitiveSensor(30);
+    long total2 = cs_4_5.capacitiveSensor(30);
+    long total3 = cs_10_11.capacitiveSensor(30);
+
+    // Determine states based on thresholds
+    yes1 = (total1 > 60);
+    yes2 = (total2 > 60);
+    yes3 = (total3 > 60);
+
+    // Handle toggling for Sensor 1
+    if (yes1 == true && previous1 == false && millis() - time > debounce) {
+        state1 = (state1 == LOW) ? HIGH : LOW;
+        time = millis();
+    }
+    digitalWrite(led1, state1);
+    previous1 = yes1;
+
+    // Handle toggling for Sensor 2
+    if (yes2 == true && previous2 == false && millis() - time > debounce) {
+        state2 = (state2 == LOW) ? HIGH : LOW;
+        time = millis();
+    }
+    digitalWrite(led2, state2);
+    previous2 = yes2;
+
+    // Handle toggling for Sensor 3
+    if (yes3 == true && previous3 == false && millis() - time > debounce) {
+        state3 = (state3 == LOW) ? HIGH : LOW;
+        time = millis();
+    }
+
+    digitalWrite(led3, state3);
+    previous3 = yes3;
+
+    // Debug output to serial monitor
+    Serial.print("   Sensor 1: "); Serial.print(total1);
+    Serial.print(" | Sensor 2: "); Serial.print(total2);
+    Serial.print(" | Sensor 3: "); Serial.println(total3);
+
+    delay(10);
+}
