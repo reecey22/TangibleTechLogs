@@ -13,11 +13,12 @@ Welcome to my Physical Computing Journal! This repository tracks my progress in 
 ## Table of Contents 📝
 
 1. About the Journal
-2. Project Highlights
-3. Project Sketches
-4. Cool Tech Discoveries
-5. Resources
-6. Contact
+2. Elevator Pitch
+3. Project Highlights
+4. Project Sketches
+5. Cool Tech Discoveries
+6. Resources
+7. Contact
    
 ***
 
@@ -29,12 +30,18 @@ This journal was initiated as a requirement for my physical computing class, and
 * keep track of code I used
 * build a portfolio
 
-## Project Highlights 
+## Elevator Pitch
+[Elevator Pitch](TangibleTechLogs/ElevatorPitch)
 
+## User Interview Information
+[Link to User Interviews](TangibleTechLogs/UserInterviews
+
+## Project Highlights 
 👷🏾‍♀️Under Construction 🚧 
 
 ## Project Sketches
-👷🏾‍♀️Under Construction 🚧 
+
+[Click to view Sketches](TangibleTechLogs/SketchesAndStoryboard)
 
 ## Cool Tech Discoveries
 👷🏾‍♀️Under Construction 🚧 
