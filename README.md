@@ -34,7 +34,7 @@ This journal was initiated as a requirement for my physical computing class, and
 [Elevator Pitch](ElevatorPitch)
 
 ## User Interview Information
-[Link to User Interviews](TangibleTechLogs/UserInterviews
+[Link to User Interviews](UserInterviews)
 
 ## Project Highlights 
 👷🏾‍♀️Under Construction 🚧 
