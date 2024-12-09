@@ -1,0 +1,62 @@
+Shaniah Reece 
+
+Literature Review  
+
+Physical Computing  
+
+Project: Classroom Engagement Technologies 
+ 
+
+Beyond Clickers: Using ClassQue for Multidimensional Electronic Classroom Interaction 
+
+Robbins, S. (2011). Beyond clickers: Using ClassQue for multidimensional electronic classroom interaction. Proceedings of the 42nd ACM Technical Symposium on Computer Science Education, 661–666. https://doi.org/10.1145/1953163.1953347 
+
+ 
+
+Clickers is an interactive classroom technology that allows students to anonymously engage in lectures, by providing timed responses to multiple choice questions in a classroom. Despite their utility in offering fast feedback to students, clickers are lacking in their ability to allow more rich feedback between students and teachers, especially during dead time (i.e. time students spend waiting for the professor to move on to the next question or content while their peers are still responding to the question posed). ClassQue was designed to address this limitation offering more opportunities for engagement with class content by allowing students to respond to open ended questions, give and receive feedback to their peers’ responses and receive feedback from the professor. As this research was descriptive, there were no formative findings. However, the author believes this technology would be of great benefit to classrooms, offering teachers more control over the classroom, more opportunities to evaluate how students are doing and reach out to individual students. Conversely, the technology would allow students to be more engaged in the classroom, by offering “faster” students additional activities to undertake during “deadtime”, and slower students the opportunity to improve their understanding by receiving feedback from their peers. 
+
+ 
+
+Multi-Level Interaction with an LED Matrix Edge  
+
+Pohl, H., Krefeld, B., & Rohs, M. (2016). Multi-level interaction with an LED-matrix edge display. Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct, 839–845. https://doi.org/10.1145/2957265.2961855 
+
+Tactile interaction is not always desirable in technology. This paper explores the utility of LED matrices to display notifications without the need for direct interaction with a mobile device. This invites users to control how much they want to engage with the device.  Specific interaction features are offered for example, notification previews, caller ID. Batter percentage, and whether a new message came in. This paper is relevant due to its innovative usage of LED matrices to display summative information.  
+
+ 
+
+Trace to Touch: Eliciting Gestures from Capacitive Touch Electrodes 
+
+Darji, A., Kapoor, G., & Torres, C. (2024). Trace to Touch: Eliciting Gestures from Capacitive Touch Electrodes. Proceedings of the 16th Conference on Creativity & Cognition, 67–71. https://doi.org/10.1145/3635636.3664265 
+
+ 
+
+Tangible Touch: A Toolkit for Designing Surface based Gestures for Tangible Interfaces 
+
+In this paper Potts et al. Utilize capacitive sensing to design a toolkit that facilitates a physical means of representing and manipulating digital information. Their toolkit offers a unique means of interaction through surface and gesture-based input. The researchers tested the gesture detection accuracy to ensure functionality and found that the  cube performed best with double-tap a hand and finger. And performed around 84% on other gestures such as swiping or other custom gestures. The cube was also found to be effective in three application cases: (1) when inspecting a model in 3D, (2) with a 2D Platformer where it is used to control a 2D character making it jump, move draw etc., and (3)to control a media player. In sum, the toolkit can be used by designers to prototype and develop bespoke surface-based gestures for tangible interfaces using a modular and easily fabricated hardware platform and software framework. 
+
+Old Skool Tech: Low-Tech Responses to a New-Tech World 
+
+Ross, D. G., Edenfield, A., Jordan, R., & Pears-Keating, K. (2024). Old-Skool Tech: Low-Tech Responses to a New-Tech World. Proceedings of the 42nd ACM International Conference on Design of Communication, 248–249. https://doi.org/10.1145/3641237.3691680 
+
+ 
+
+Ross et. Al communicate the value of interpersonal communication often lost to automation leaning technologies that do not prioritize human connection nor interactions. The authors propose physical design as a balance to a heavily AI permeated environment. They propose that physical designs offer a richness, and multimodal approach that fosters visual and design thinking. Overall, the authors make the case that low-technology that prioritizes human-centric interventions is a fundamental component of who we are and how we work. 
+
+ 
+
+Coder and Coder cards: A Novel Tangible Programming Approach for Young Programmers 
+
+Lin, Y., Weintrop, D., & McKenna, J. (2023). Coder and Coder Cards: A Novel Tangible Programming Approach for Young Programmers. 2023 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), 25–30. https://doi.org/10.1109/VL-HCC57772.2023.00011 
+
+ 
+
+This paper presents a novel programming approach that combines coder cards and a coding machine to create a coding device that mirrors block-based programming. By using the coding cards, students are able to control the movement of a robot. The coder is built using the familiar appearance of a smartphone and connects to the 123 Robot via Bluetooth. The coder cards use magnetic technology to indicate which instructions are embedded on them. The coder identifies the magnetic arrangement and recognizes which card is being read.  
+
+ 
+
+ 
+
+ 
+
+ 
