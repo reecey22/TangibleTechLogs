@@ -1,0 +1,34 @@
+## Interview Summaries
+
+For this project, five (5) target users were interviewed: 2 undergraduate students, 2 graduate students, and 1 professor. Undergraduate students were selected as they represent the primary users who would directly interact with the device. Graduate students were included due to their dual role as both students and educators, offering a unique perspective. Lastly, a professor was interviewed to assess whether the device could enhance classroom engagement and effectiveness from an instructor’s standpoint.
+
+## Key Insights from Interviews
+
+Pros:
+
+	1.	The device is highly useful.
+	2.	It can enhance student engagement.
+	3.	It helps professors better recognize and respond to student needs.
+	4.	It has broad applicability in large classroom settings.
+	5.	The device is intuitive and straightforward to use.
+
+Cons and Critiques:
+
+	1.	Anonymity Concerns: Would other students seeing the LED signals undermine anonymity?
+	2.	Comparisons to Mobile Devices: What sets this technology apart from existing mobile solutions?
+	3.	Potential for Misuse: How to handle scenarios where bad actors bombard the system with false signals?
+
+## General Feedback
+
+Participants unanimously agreed that EduCube is a promising tool, particularly for large classrooms. They found the LED-based communication system engaging and simple, requiring minimal training for both students and educators. Professors valued its potential to increase classroom interaction, while students appreciated its simplicity and distraction-free design.
+
+## Suggestions for Improvement
+
+	1.	Addressing Bad Actors:
+Participants recommended giving professors control mechanisms to prevent misuse. For instance, implementing a system that allows instructors to monitor and manage disruptive inputs could maintain order.
+	2.	Enhancing Anonymity:
+A concern was raised about the visibility of LED signals to other students, which might discourage shy individuals. However, as the LEDs are professor-facing, this was considered a minor issue. To further mitigate concerns, an alternative design could allow students to disable LED signals and instead send feedback to a professor’s pad. Haptic feedback for students could confirm successful communication.
+	3.	Distinction from Mobile Devices:
+EduCube’s primary advantage lies in its single-purpose, distraction-free design. Unlike mobile devices, which can divert attention or require additional apps, EduCube focuses solely on fostering classroom engagement.
+
+This feedback highlights EduCube’s potential while identifying key areas for refinement to optimize its impact in educational settings.
