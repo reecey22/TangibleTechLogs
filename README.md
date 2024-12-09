@@ -41,7 +41,7 @@ This journal was initiated as a requirement for my physical computing class, and
 
 ## Project Sketches
 
-[Click to view Sketches](SketchesAndStoryboard)
+[Click to view Sketches](SketchesandStoryboard)
 
 ## Cool Tech Discoveries
 👷🏾‍♀️Under Construction 🚧 
