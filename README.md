@@ -7,18 +7,6 @@ A digital journal documenting my journey in physical computing. Here you will fi
 ## Overview 📄
 
 Welcome to my Physical Computing Journal! This repository tracks my progress in learning about the physical computing field and building interactive projects: from brainstorming ideas, to logging cool technologies I see, to implementing hardware and software solutions in a 'final project'. Explore my sketches, coding samples, and reflections at each phase of my journey. 
-
-***
-
-## Table of Contents 📝
-
-1. About the Journal
-2. Elevator Pitch
-3. Project Highlights
-4. Project Sketches
-5. Cool Tech Discoveries
-6. Resources
-7. Contact
    
 ***
 
@@ -32,6 +20,9 @@ This journal was initiated as a requirement for my physical computing class, and
 
 ## Elevator Pitch
 [Elevator Pitch](ElevatorPitch)
+
+## Literature Review 
+[Lit Review](LiteratureReview)
 
 ## User Interview Information
 [Link to User Interviews](UserInterviews)
